@@ -12,9 +12,9 @@ This project investigates the relationship between global temperatures, greenhou
 
 Three datasets were selected based on coverage, structure, and relevance to the research objectives:
 
-1. **Global Temperature** – [Kaggle](https://www.kaggle.com/datasets/sevgisarac/temperature-change)
-2. **Sea Level Rise** – [Kaggle](https://www.kaggle.com/datasets/jarredpriester/global-sea-level-rise)
-3. **Greenhouse Gas Emissions** – [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions), [Kaggle](https://www.kaggle.com/datasets/srikantsahu/co2-and-ghg-emission-data)
+1. **Global Temperature** – (https://www.kaggle.com/datasets/sevgisarac/temperature-change)
+2. **Sea Level Rise** – (https://www.kaggle.com/datasets/jarredpriester/global-sea-level-rise)
+3. **Greenhouse Gas Emissions** – (https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions), (https://www.kaggle.com/datasets/srikantsahu/co2-and-ghg-emission-data)
 
 ## Technical Approach
 
